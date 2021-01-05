@@ -4,7 +4,8 @@
 #    \      /  |   ||  |_   |  |   |   |_|  ||  | |__| \   /
 #     \____/   |___||____|  |__|    \_____ / |__|       |_|
 
-#Victory Linux Fish config
+# Victory Linux Fish config
+# https://github.com/VictoryLinux
 
 # forked from:
 # Derek Taylor (DistroTube)
